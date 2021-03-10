@@ -37,8 +37,7 @@ namespace PromotionsToPrimary
 
 
             //email address to search;
-            List<string> accountNames = new List<string> {"John.Miller052792@gmail.com", "Mary.Poppins19877@gmail.com",
-                "Walter.White8777@gmail.com", "James.McGill247@gmail.com", "William.Hayes4555@gmail.com" };
+            List<string> accountNames = new List<string> {"emailsredacted@gmail.com" };
 
             //get list of email accounts in Outlook
             Stores stores = Application.Session.Stores;
@@ -104,10 +103,7 @@ namespace PromotionsToPrimary
         public void ClickThoseLinks()
         {
             //email addresses to search;
-            List<string> accountNames = new List<string> { "John.Miller052792@gmail.com", "Mary.Poppins19877@gmail.com",
-            "Walter.White8777@gmail.com", "James.McGill247@gmail.com", "William.Hayes4555@gmail.com",
-            "James.McGill24@hotmail.com (1)", "John.Miller7277@outlook.com", "Walter.White877@hotmail.com",
-            "William.Hayes45@hotmail.com"};
+            List<string> accountNames = new List<string> { "emailsredeacted@gmail.com"};
 
                         
             //get list of email accounts in Outlook
