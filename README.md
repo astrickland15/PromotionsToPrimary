@@ -5,3 +5,6 @@ This app contains code for two separate Outlook Add-Ins that
 2) click all links in each email, so long as the email was received within the last 24 hours
 
 The app generates two Add-In buttons in Outlook
+
+These actions are performed on emails received by certain email accounts that have been added to Outlook as IMAP
+
